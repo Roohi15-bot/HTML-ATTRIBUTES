@@ -1,3 +1,5 @@
+#  COMMON HTML ATTRIBUTES:-
+
 # id	
 > All elements	
 >> Unique identifier
